@@ -25,7 +25,7 @@ Manage Health details to access anytime, anywhere and trend health progress. Mak
 ```
 npm install
 ```
-Run this command in / and /backend directory
+Run this command in main (/) and /backend directory
 #### 4. Fireup the Backend server
 ```
 nodemon server.js
@@ -35,7 +35,7 @@ Run this command in /backend directory
 ```
 npm start
 ```
-Run this command in / directory
+Run this command in main (/) directory
 
 
 
