@@ -25,16 +25,19 @@ Manage Health details to access anytime, anywhere and trend health progress. Mak
 ```
 npm install
 ```
-Run in both the backend and the main directory to install all the required dependencies to run the project
+```
+cd backend
+npm install
+```
 #### 4. Fireup the Backend server
 ```
 nodemon server.js
 ```
-Run in the backend directory
 #### 5. Fireup the Frontend server
 ```
+cd /
 npm start
 ```
-Run in the main directory
+
 
 
