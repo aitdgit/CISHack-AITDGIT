@@ -21,7 +21,7 @@ Manage Health details to access anytime, anywhere and trend health progress. Mak
 
 #### 1. Clone the Repository
 #### 2. [Install Node.js](https://nodejs.org/en/download/package-manager/)
-#### 3. Install all the required dependencies
+#### 3. Install the required dependencies
 ```
 npm install
 ```
