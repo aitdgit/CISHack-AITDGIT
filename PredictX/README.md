@@ -1,5 +1,5 @@
 # Team PredictX
-A simple platform that allows you to store all your medical reocrds and medications and much more.
+A simple platform that allows you to store all your medical reocrds and medications, can accurately predict the risk of heart attack and diabetes and much more.
 
 ## Team Members
 1. Sanket Marathe
