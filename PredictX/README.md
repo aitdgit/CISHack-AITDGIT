@@ -43,15 +43,15 @@ Run this command in main (/) directory
 ## Some Screenshots
 ## Home Page
   
-<img src="home.png" height=500 alt="Home Page"> 
+<img src="Images/home.png" alt="Home Page"> 
   
 ## Doctors Dashboard
   
-<img src="docdash.png" height=500 alt="Doctors Dashboard"> 
+<img src="Images/docdash.png" alt="Doctors Dashboard"> 
 
 ## Patients Dashboard
 
-<img src="patientdash.png" height=500 alt="Patients Dashboard">
+<img src="Images/patientdash.png" alt="Patients Dashboard">
   
 
 
