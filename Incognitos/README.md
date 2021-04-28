@@ -18,11 +18,13 @@ Using Google Actions with DialogFlow API, a simple health assistant will help an
 3. **Emergency contacts**
 - Give contact details about nearby hospitals/health centers in case of an emergency.
 
+
 ## How to deploy?
 1. Clone this repository.
-2. Setup required APIs through Google Console (DialogFlow API).
-3. Upload the .json files to get the intents on Google Actions.
-4. Create a webhook locally by running a Flask server.
+2. Setup required APIs through Google Console (DialogFlow API, Google Sheets API).
+3. Enable service account and get credentials to access the [spreadsheet](https://docs.google.com/spreadsheets/d/15yyECUh9tsIo_wlSziDTNm7avGixwkqMpBALe7skSSs/).
+4. Upload the .json files to get the intents on Google Actions (through Dialogflow).
+5. Create a webhook locally by running a Flask server.
 - Install necessary python requirements
 ```
 pip install flask
