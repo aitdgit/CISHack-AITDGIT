@@ -37,5 +37,8 @@ npm start
 ```
 Run this command in main (/) directory
 
+## Live Demo
+#### [Click here](https://predictx.herokuapp.com/)
+
 
 
