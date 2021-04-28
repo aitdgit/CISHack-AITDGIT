@@ -40,5 +40,19 @@ Run this command in main (/) directory
 ## Live Demo
 #### [Click here](https://predictx.herokuapp.com/)
 
+## Some Screenshots
+## Home Page
+  
+<img src="home.png" height=500 alt="Home Page"> 
+  
+## Doctors Dashboard
+  
+<img src="docdash.png" height=500 alt="Doctors Dashboard"> 
+
+## Patients Dashboard
+
+<img src="patientdash.png" height=500 alt="Patients Dashboard">
+  
+
 
 
