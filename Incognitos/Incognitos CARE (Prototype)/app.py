@@ -78,7 +78,7 @@ def medical_assistant_handler():
     try:
         req = request.get_json(silent=True, force=True)
         query_result = req.get("queryResult")
-        # print(json.dumps(req))
+        print(json.dumps(req))
 
         if query_result.get("intent").get("displayName") == "user_status":
             return respond("Welcome to CARE!")
